@@ -1,0 +1,7 @@
+1. Making the grid.
+
+
+The grid should be a list of lists where grid can be extended by adding more rows. The lists inside the bigger list are the rows.
+The columns are the elements of the interior lists.
+
+2. 
